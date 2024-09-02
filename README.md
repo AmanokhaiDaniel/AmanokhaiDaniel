@@ -1,20 +1,15 @@
-
 # Hi, I'm Amanokhai! 👋
-
-
 ## 🚀 About Me
-I am a data scientist and business intelligence enthusiast driven by the excitement of unveiling valuable insights within datasets. My journey into the realm of data science started as a data analyst with manipulating data in tools like Microsoft Excel and delving into the creation of diverse charts and visualizations. This hobby quickly transformed into a profound realization of the transformative power that data holds in facilitating informed decision-making across diverse industries.
+I am a data scientist and business intelligence enthusiast driven by the excitement of unveiling valuable insights within datasets. My journey into data science started as a data analyst manipulating data in tools like Microsoft Excel and delving into creating diverse charts and visualizations. This hobby quickly transformed into a profound realization of data's transformative power in facilitating informed decision-making across diverse industries.
 
-
-
-
-## 🛠 Skills
+* 🛠 Skills
 1. python
 2. SQL
 3. Excel
 4. PowerBI
 5. Machine learning
-6. Mathematices
+6. Mathematics
+7. SPSS
 
 
 
@@ -31,10 +26,10 @@ I am a data scientist and business intelligence enthusiast driven by the excitem
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amanokhai2)
 
 
-## Summry Of My Journey 
+## Summary Of My Journey 
 👩‍💻 Started as a mathematician.
 
-🧠 Bsc (Edu) mathematices and computer science graduate.
+🧠 BSc (Edu) mathematics and computer science Education Graduate.
 
 👯‍♀️certification as a data analyst from ALX.
 
